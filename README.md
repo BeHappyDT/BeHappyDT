@@ -20,6 +20,8 @@ I focus on practical business analytics: working with structured data, building 
 
 Google Sheets dashboard project using a synthetic HoReCa sales dataset across multiple locations and periods.
 
+Tools: Google Sheets, Pivot Tables, Charts, Dashboarding
+
 The project includes:
 
 * cleaned dataset
@@ -28,7 +30,7 @@ The project includes:
 * business insights
 * assortment recommendations
 
-Repository: https://github.com/BeHappyDT/horeca-sales-margin-analysis
+Repository: [horeca-sales-margin-analysis](https://github.com/BeHappyDT/horeca-sales-margin-analysis)
 
 ## Background
 
