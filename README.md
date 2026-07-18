@@ -32,6 +32,23 @@ The project includes:
 
 Repository: [horeca-sales-margin-analysis](https://github.com/BeHappyDT/horeca-sales-margin-analysis)
 
+### DVD Rental Business Analysis
+
+PostgreSQL and Python project analyzing the `dvdrental` sample database to identify revenue trends, customer behavior, film and category performance, store results, and operational patterns.
+
+**Tools:** PostgreSQL, SQL, Python, psycopg2, Jupyter Notebook
+
+The project includes:
+
+- revenue and monthly trend analysis
+- customer value analysis
+- film and category performance analysis
+- store performance comparison
+- rental duration and late return analysis
+- business insights and recommendations
+
+**Repository:** [dvd-rental-business-analysis](https://github.com/BeHappyDT/dvd-rental-business-analysis)
+
 ## Background
 
 My previous experience in HoReCa and food technology helps me understand product flows, stock-related issues, operational processes and business decision-making from the inside.
