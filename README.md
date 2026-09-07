@@ -1,6 +1,8 @@
 # Hi, I'm Dmytro 👋
 
-I'm transitioning into data analytics with a background in HoReCa operations, inventory control, food technology and operational management.
+**Data Analyst / BI Analyst | SQL • Power BI • DAX • Power Query • Excel**
+
+I'm building my career in data analytics with a background in HoReCa operations, inventory control, food technology and operational management.
 
 I focus on practical business analytics: transforming raw data, building dashboards, analyzing sales and operational performance, and turning data into clear business insights.
 
