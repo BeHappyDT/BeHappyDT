@@ -1,36 +1,65 @@
 # Hi, I'm Dmytro 👋
 
-I'm transitioning into data analytics with a background in HoReCa operations, inventory control, food technology and product management.
+I'm transitioning into data analytics with a background in HoReCa operations, inventory control, food technology and operational management.
 
-I focus on practical business analytics: working with structured data, building dashboards, analyzing sales and margin performance, and turning raw information into clear business insights.
+I focus on practical business analytics: transforming raw data, building dashboards, analyzing sales and operational performance, and turning data into clear business insights.
 
-## Current focus
+## Current Focus
 
-* Data Analysis
-* Google Sheets / Excel
-* SQL
-* Python basics
-* Dashboarding
-* KPI Reporting
-* Business and Operations Analytics
+- Data Analysis
+- Power BI
+- SQL / PostgreSQL
+- Power Query
+- DAX
+- Excel / Google Sheets
+- Data Modeling
+- KPI Reporting
+- Dashboard Development
+- Python basics
 
 ## Portfolio Projects
+
+### AdventureWorks Power BI Report
+
+Interactive multi-page Power BI report built on the AdventureWorks dataset.
+
+**Tools:** Power BI, Power Query, DAX, Data Modeling
+
+The project includes:
+
+- executive KPI dashboard
+- revenue, profit, orders and returns analysis
+- dynamic monthly targets
+- customer and product analysis
+- geographic analysis
+- interactive filters and bookmarks
+- report-page tooltips
+- dynamic customer insights using DAX
+- context-aware metrics and KPI reporting
+
+**Repository:** [adventureworks-power-bi-report](https://github.com/BeHappyDT/adventureworks-power-bi-report)
+
+---
 
 ### Multi-Location HoReCa Sales & Margin Analysis
 
 Google Sheets dashboard project using a synthetic HoReCa sales dataset across multiple locations and periods.
 
-Tools: Google Sheets, Pivot Tables, Charts, Dashboarding
+**Tools:** Google Sheets, Excel, Pivot Tables, Charts, Dashboarding
 
 The project includes:
 
-* cleaned dataset
-* pivot tables
-* dashboard
-* business insights
-* assortment recommendations
+- cleaned and structured dataset
+- pivot tables
+- sales analysis
+- margin and food cost analysis
+- plan vs. actual comparison
+- product-level performance analysis
+- assortment and profitability recommendations
 
-Repository: [horeca-sales-margin-analysis](https://github.com/BeHappyDT/horeca-sales-margin-analysis)
+**Repository:** [horeca-sales-margin-analysis](https://github.com/BeHappyDT/horeca-sales-margin-analysis)
+
+---
 
 ### DVD Rental Business Analysis
 
@@ -49,8 +78,28 @@ The project includes:
 
 **Repository:** [dvd-rental-business-analysis](https://github.com/BeHappyDT/dvd-rental-business-analysis)
 
+---
+
+### Superstore Sales Analysis
+
+Power BI project focused on sales, profitability, regional performance and discount impact.
+
+**Tools:** Power BI, Power Query, Data Modeling
+
+This was one of my earlier Power BI projects and helped me build foundational experience with reporting and visualization.
+
+**Repository:** [superstore-sales-analysis](https://github.com/BeHappyDT/superstore-sales-analysis)
+
 ## Background
 
-My previous experience in HoReCa and food technology helps me understand product flows, stock-related issues, operational processes and business decision-making from the inside.
+My previous experience in HoReCa, inventory management and food technology helps me understand operational processes, product flows, stock-related issues and business decision-making from the inside.
 
-I'm especially interested in operations analytics, inventory analytics, retail analytics, food service analytics and business reporting.
+I'm especially interested in:
+
+- Business Intelligence
+- Operations Analytics
+- Inventory Analytics
+- Retail Analytics
+- Food Service Analytics
+- Business Reporting
+- Data-driven decision-making
